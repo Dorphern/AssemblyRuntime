@@ -43,8 +43,8 @@ footer > div { border-bottom: 5px solid #3D3D3D; }
 	margin-bottom: 2px;  
 	padding: 0 0 0 5px;
 	background-color: #3D3D3D;
-	text-shadow: 0px 1px 1px #5d5d5d;
-  	color: #111;
+	text-shadow: 0px 1px 1px #595959;
+  	color: #1A1A1A;
   	line-height: 16px;
   	font-weight: bold;
 }
@@ -52,7 +52,7 @@ footer > div { border-bottom: 5px solid #3D3D3D; }
 .register span { 
 	float: right; 
 	background-color: #505050;
-	text-shadow: 0px 1px 1px #8a8a8a;
+	text-shadow: 0px 1px 1px #737373;
 	padding: 0 5px;
 	min-width: 30%;
 	text-align: right;
